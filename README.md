@@ -1,2 +1,2 @@
 # App Landing Page #
-This is a simple app landing page created with bootstrap 4 (alpha)
+A simple app landing page created with Bootstrap 4 (alpha)
